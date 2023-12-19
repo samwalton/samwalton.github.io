@@ -1,0 +1,14 @@
+body{
+    margin:5%;
+    background:#FFFFFF;
+    color:#000000;
+    font-family:monospace;
+    text-transform:lowercase;
+}
+
+img{
+    width:auto;
+    height:auto;
+    max-width:90%;
+    max-height:90%;
+}

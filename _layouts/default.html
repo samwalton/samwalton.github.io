@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/images/favicon.png" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+    {% feed_meta %}
+    <link rel="stylesheet" href="/assets/css/style.css">
+  </head>
+<body>
+	<h1>Sam Walton</h1>
+	<hr>
+	<ul>
+  		<li><a href="/index.html">home</i></li>
+		<li><a href="mailto:sam@samwalton.co.uk">email</a></li>
+	</ul>
+	<hr>
+	<h2>about</h2>
+    <p>{{ page.description }}
+    {{ content }}</p>
+    <ul>  {% for post in site.posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+        <li><a href="https://www.crispreview.co.uk">I like eating crisps</a></li>
+	</ul>
+</body>
+</html>

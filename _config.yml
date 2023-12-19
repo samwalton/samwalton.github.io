@@ -1,0 +1,17 @@
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO Stuff
+author: Crisp Review
+summary: I eat crisps and write about them.
+lang: en
+locale: en_GB
+url: "https://www.crispreview.co.uk"
+baseurl: ""
+
+paginate: 5
+
+# RSS feeds
+feed:
+  posts_limit: 20
