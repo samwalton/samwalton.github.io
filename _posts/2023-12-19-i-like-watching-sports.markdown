@@ -27,4 +27,4 @@ Watching football in person is much better than watching football on TV. I enjoy
 
 I think the game in your imagination is often more exciting than the game in reality.
 
-I can not stand conversations about tactics or statistics in football. They are boring. Football should be about kicking the ball and running about and being aggressive. It is much simpler than baseball and it is exciting in different ways.</p>
+I can not stand conversations about tactics or statistics in football. They are boring. Football should be about kicking the ball and running about and being aggressive. It is much simpler than baseball and it is exciting in different ways.
