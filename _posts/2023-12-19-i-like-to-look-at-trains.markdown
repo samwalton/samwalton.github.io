@@ -6,7 +6,7 @@ date:   2023-12-19 11:06:40 +0000
 ## Trains
 
 ### Preservation
-I like to visit heritage railways. They are places where volunteers and customers can enjoy a nostalgic day out. They are like collective hallucinations. Everyone knows railway stations were noisy and smelly and dirty. At a heritage railway we can pretend they weren't. Instead we can eat ice creams and watch engines haul carriages.
+I like to visit heritage railways. They are places where volunteers and customers can enjoy a nostalgic day out. They are like collective hallucinations. Everyone knows railway stations were noisy and smelly and dirty. At a heritage railway we can pretend they weren't. Instead we can eat ice creams and watch engines haul carriages. <!--excerpt-->
 
 Steam engines are very impressive. They smell and they are noisy. They give off lots of heat. When you stand next to one it sometimes feels like they are alive. They're not. They're feats of human ingenuity. They changed the world.
 
