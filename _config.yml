@@ -15,3 +15,5 @@ paginate: 5
 # RSS feeds
 feed:
   posts_limit: 20
+  
+excerpt_separator: "<!--excerpt-->"
