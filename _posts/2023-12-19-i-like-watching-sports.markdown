@@ -5,7 +5,7 @@ date:   2023-12-19 10:01:41 +0000
 ---
 ## Sports
 ### Stupid
-When i was young I thought sports were stupid. I wanted to read books and change the world. I couldn't understand why people wasted their time watching other people exercise.
+When i was young I thought sports were stupid. I wanted to read books and change the world. I couldn't understand why people wasted their time watching other people exercise. <!--excerpt-->
 
 I couldn't throw or catch and I didn't care about winning and losing. Then I got older and I realised I wasn't going to change the world. I realised that watching sports was fun and I was wrong.
 
