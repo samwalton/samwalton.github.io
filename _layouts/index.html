@@ -24,6 +24,9 @@
 <hr>
 	{% for post in site.posts %}
         	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      		<p>{{ post.excerpt }}</p>
+            		<p><a href="{{ post.url }}">Continue reading...</a></p></li></ br>
+</ br>
 	{% endfor %}
         <h3><a href="https://www.crispreview.co.uk">I like eating crisps</a></h3>
 </body>
